@@ -1,0 +1,207 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +name","#country +code +iso2","#adm1 +name","#adm1 +code +iso","#adm1 +code +local","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+6217,SPIM,large_airport,"Jorge Chávez International Airport",-12.0219,-77.114305,113,SA,Peru,PE,"Lima Region",PE-LIM,LIM,Lima,1,SPJC,LIM,,http://www.lap.com.pe/,https://en.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_International_Airport,"SPIM, SPJC",1050,2021-05-03T09:18:25+00:00
+6243,SPZO,large_airport,"Alejandro Velasco Astete International Airport",-13.535699844400002,-71.9387969971,10860,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,Cusco,1,SPZO,CUZ,,http://www.corpac.gob.pe/,https://en.wikipedia.org/wiki/Alejandro_Velasco_Astete_International_Airport,,1000,2010-09-07T09:49:15+00:00
+6233,SPQU,medium_airport,"Rodríguez Ballón International Airport",-16.3411006927,-71.5830993652,8405,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Arequipa,1,SPQU,AQP,,,https://en.wikipedia.org/wiki/Rodriguez_Ballon_International_Airport,,750,2010-09-07T09:47:49+00:00
+6222,SPJL,medium_airport,"Inca Manco Capac International Airport",-15.467100143432617,-70.158203125,12552,SA,Peru,PE,"Puno Region",PE-PUN,PUN,Juliaca,1,SPJL,JUL,,,https://en.wikipedia.org/wiki/Inca_Manco_Capac_International_Airport,,750,2008-07-21T16:57:31+00:00
+6242,SPZA,medium_airport,"Maria Reiche Neuman Airport",-14.854,-74.961502,1860,SA,Peru,PE,"Ica Region",PE-ICA,ICA,Nazca,1,SPZA,NZC,,https://www.aeronasca.com/como-llegar-al-aeropuerto-maria-reiche-en-nazca/,https://en.wikipedia.org/wiki/Maria_Reiche_Neuman_Airport,,750,2022-04-07T13:53:44+00:00
+6232,SPQT,medium_airport,"Coronel FAP Francisco Secada Vignetta International Airport",-3.78474,-73.3088,306,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Iquitos,1,SPQT,IQT,,,https://en.wikipedia.org/wiki/Crnl._FAP_Francisco_Secada_Vignetta_International_Airport,,750,2022-08-29T12:46:38+00:00
+6235,SPRU,medium_airport,"Capitan FAP Carlos Martinez De Pinillos International Airport",-8.08141040802002,-79.10880279541016,106,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,Trujillo,1,SPRU,TRU,,,https://en.wikipedia.org/wiki/Cap._FAP_Carlos_Mart%C3%ADnez_de_Pinillos_International_Airport,,750,2008-07-21T16:57:59+00:00
+6213,SPHI,medium_airport,"Air Force Captain Jose A Quinones Gonzales International Airport",-6.78748,-79.828102,97,SA,Peru,PE,"Lambayeque Region",PE-LAM,LAM,Chiclayo,1,SPHI,CIX,,,https://en.wikipedia.org/wiki/Cap._FAP_Jos%C3%A9_A._Qui%C3%B1ones_Gonzales_International_Airport,,750,2022-09-07T13:58:51+00:00
+6240,SPUR,medium_airport,"Capitán FAP Guillermo Concha Iberico International Airport",-5.20574998856,-80.61640167239999,120,SA,Peru,PE,"Piura Region",PE-PIU,PIU,Piura,1,SPUR,PIU,,,https://en.wikipedia.org/wiki/Cap._FAP_Guillermo_Concha_Iberico_International_Airport,,750,2010-09-06T17:28:00+00:00
+6238,SPTN,medium_airport,"Coronel FAP Carlos Ciriani Santa Rosa International Airport",-18.053300857500002,-70.2758026123,1538,SA,Peru,PE,"Tacna Region",PE-TAC,TAC,Tacna,1,SPTN,TCQ,,,https://en.wikipedia.org/wiki/Crnl._FAP_Carlos_Ciriani_Santa_Rosa_International_Airport,,750,2010-09-06T17:28:59+00:00
+6239,SPTU,medium_airport,"Padre Aldamiz International Airport",-12.6135997772,-69.2285995483,659,SA,Peru,PE,"Madre de Dios Region",PE-MDD,MDD,"Puerto Maldonado",1,SPTU,PEM,,,https://en.wikipedia.org/wiki/Padre_Aldamiz_International_Airport,"Puerto Maldonado International Airport",750,2010-09-06T17:29:57+00:00
+6223,SPJR,medium_airport,"Mayor General FAP Armando Revoredo Iglesias Airport",-7.1391801834106445,-78.4894027709961,8781,SA,Peru,PE,"Cajamarca Region",PE-CAJ,CAJ,Cajamarca,1,SPJR,CJA,,,https://en.wikipedia.org/wiki/My._Gral._FAP._Armando_Revoredo_Iglesias_Airport,,750,2008-07-21T16:57:33+00:00
+6205,SPCL,medium_airport,"Cap FAP David Abenzur Rengifo International Airport",-8.37794017791748,-74.57430267333984,513,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Pucallpa,1,SPCL,PCL,,,https://en.wikipedia.org/wiki/Captain_Rolden_International_Airport,,750,2008-07-21T16:57:11+00:00
+6237,SPST,medium_airport,"Cadete FAP Guillermo Del Castillo Paredes Airport",-6.508739948272705,-76.37319946289062,869,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Tarapoto,1,SPST,TPP,,,https://en.wikipedia.org/wiki/Cad._FAP_Guillermo_del_Castillo_Paredes_Airport,,750,2008-07-21T16:58:03+00:00
+313312,spgl,small_airport,"Chagual Airport",-7.798106,-77.6495,3967,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,,0,SPGL,,,,https://en.wikipedia.org/wiki/Chagual_Airport,,50,2024-05-09T15:02:04+00:00
+6214,SPHO,medium_airport,"Air Force Colonel Alfredo Mendivil Duarte Airport",-13.1548,-74.204399,8917,SA,Peru,PE,"Ayacucho Region",PE-AYA,AYA,Ayacucho,1,SPHO,AYP,,,https://en.wikipedia.org/wiki/Coronel_FAP_Alfredo_Mendivil_Duarte_Airport,"Coronel FAP Alfredo Mendivil Duarte",750,2022-09-07T12:11:57+00:00
+6241,SPYL,medium_airport,"Captain Victor Montes Arias International Airport",-4.57664,-81.254097,282,SA,Peru,PE,"Piura Region",PE-PIU,PIU,Talara,1,SPYL,TYL,,,https://en.wikipedia.org/wiki/Cap._FAP_Victor_Montes_Arias_Airport,"Capitan FAP Victor Montes Arias",750,2022-03-08T21:13:55+00:00
+6226,SPME,medium_airport,"Captain Pedro Canga Rodríguez International Airport",-3.552074,-80.381086,115,SA,Peru,PE,"Tumbes Region",PE-TUM,TUM,Tumbes,1,SPME,TBP,,,https://en.wikipedia.org/wiki/Cap._FAP_Pedro_Canga_Rodr%C3%ADguez_Airport,"Capitan FAP Pedro Canga Rodriguez",750,2022-11-24T07:33:10+00:00
+6224,SPLO,medium_airport,"General Jorge Fernandez Maldon Airport",-17.695,-71.344002,72,SA,Peru,PE,"Moquegua Region",PE-MOQ,MOQ,Ilo,1,SPLO,ILQ,,,https://en.wikipedia.org/wiki/Ilo_Airport,,500,2023-01-16T11:31:00+00:00
+6216,SPHZ,medium_airport,"Comandante FAP German Arias Graziani Airport",-9.347439765930176,-77.59839630126953,9097,SA,Peru,PE,"Ancash Region",PE-ANC,ANC,Anta,0,SPHZ,ATA,,,https://en.wikipedia.org/wiki/Comandante_FAP_Germ%C3%A1n_Arias_Graziani_Airport,,250,2008-07-21T16:57:20+00:00
+6225,SPLP,small_airport,"Las Palmas Air Base",-12.16069984436,-76.998901367188,250,SA,Peru,PE,"Lima Region",PE-LIM,LIM,Chorrillos,0,SPLP,,,,https://en.wikipedia.org/wiki/Las_Palmas_Air_Base,,50,2015-10-05T13:04:03+00:00
+6229,SPNC,medium_airport,"Alferez Fap David Figueroa Fernandini Airport",-9.878809928894043,-76.20480346679688,6070,SA,Peru,PE,"Huánuco Region",PE-HUC,HUC,Huánuco,1,SPNC,HUU,,,https://en.wikipedia.org/wiki/Alf%C3%A9rez_FAP_David_Figueroa_Fernandini_Airport,,750,2008-07-21T16:57:38+00:00
+6231,SPPY,medium_airport,"Chachapoyas Airport",-6.201911,-77.856195,8333,SA,Peru,PE,"Amazonas Region",PE-AMA,AMA,Chachapoyas,1,SPPY,CHH,,,https://en.wikipedia.org/wiki/Chachapoyas_Airport,,500,2023-01-16T12:58:57+00:00
+6219,SPJE,medium_airport,"Shumba Airport",-5.59248,-78.774002,2477,SA,Peru,PE,"Cajamarca Region",PE-CAJ,CAJ,Jaén,1,SPJE,JAE,,,https://en.wikipedia.org/wiki/Ja%C3%A9n_Airport,,500,2016-07-31T08:56:11+00:00
+6221,SPJJ,medium_airport,"Francisco Carle Airport",-11.7831001282,-75.47339630130001,11034,SA,Peru,PE,"Junín Region",PE-JUN,JUN,Jauja,1,SPJJ,JAU,,,https://en.wikipedia.org/wiki/Francisco_Carle_Airport,,500,2011-10-04T15:02:01+00:00
+6202,SPAY,medium_airport,"Teniente General Gerardo Pérez Pinedo Airport",-10.7291,-73.766502,751,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Atalaya,0,SPAY,AYX,,,https://en.wikipedia.org/wiki/Tnte._Gral._Gerardo_P%C3%A9rez_Pinedo_Airport,,250,2022-01-15T00:53:23+00:00
+6201,SPAS,small_airport,"Alferez FAP Alfredo Vladimir Sara Bauer Airport",-2.79612994194,-76.46659851070001,728,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Andoas,0,SPAS,AOP,,,https://en.wikipedia.org/wiki/Alferez_FAP_Alfredo_Vladimir_Sara_Bauer_Airport,,50,2012-06-17T18:03:00+00:00
+32378,SPVR,small_airport,"Vitor Airport",-16.429199,-71.837799,,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,"La Joya",0,SPVR,,,,,,50,2022-09-07T12:45:49+00:00
+39596,SPHC,small_airport,"Chala Airport",-15.80703,-74.28699,112,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,"Puerto Chala",0,SPHC,,,,,,50,2022-08-25T15:32:07+00:00
+6203,SPBC,medium_airport,"Caballococha Airport",-3.91686010361,-70.5082015991,328,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Caballococha,0,SPBC,,LHC,,https://en.wikipedia.org/wiki/Caballococha_Airport,,750,2012-11-22T08:27:05+00:00
+6208,SPEO,medium_airport,"FAP Lieutenant Jaime Andres de Montreuil Morales Airport",-9.14961,-78.523804,69,SA,Peru,PE,"Ancash Region",PE-ANC,ANC,Chimbote,1,SPEO,CHM,,,https://en.wikipedia.org/wiki/Tnte._FAP_Jaime_Montreuil_Morales_Airport,,750,2022-02-23T17:34:51+00:00
+6228,SPMS,medium_airport,"Moises Benzaquen Rengifo Airport",-5.893770217895508,-76.11820220947266,587,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Yurimaguas,1,SPMS,YMS,,,https://en.wikipedia.org/wiki/Mois%C3%A9s_Benzaquen_Rengifo_Airport,,750,2008-07-21T16:57:38+00:00
+6220,SPJI,medium_airport,"Juanjui Airport",-7.1691,-76.7286,1148,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Juanjuí,0,SPJI,JJI,,,https://en.wikipedia.org/wiki/Juanju%C3%AD_Airport,,275,2024-05-17T07:20:18+00:00
+6236,SPSO,medium_airport,"Captain Renán Elías Olivera International Airport",-13.7449,-76.220299,39,SA,Peru,PE,"Ica Region",PE-ICA,ICA,Pisco,0,SPSO,PIO,,,https://en.wikipedia.org/wiki/Capit%C3%A1n_FAP_Ren%C3%A1n_El%C3%ADas_Olivera_Airport,"Capitán FAP Renán Elías Olivera",275,2022-08-25T15:42:43+00:00
+6204,SPBR,medium_airport,"Iberia Airport",-11.4116,-69.488701,750,SA,Peru,PE,"Madre de Dios Region",PE-MDD,MDD,Iberia,0,SPBR,IBP,,,https://en.wikipedia.org/wiki/Iberia_Airport,,250,2024-05-17T07:18:12+00:00
+6218,SPJA,medium_airport,"Juan Simons Vela Airport",-6.06786,-77.160004,2707,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Rioja,0,SPJA,RIJ,,,https://en.wikipedia.org/wiki/Juan_Simons_Vela_Airport,,250,2024-05-17T07:19:53+00:00
+6215,SPHY,small_airport,"Andahuaylas Airport",-13.706399917602539,-73.35040283203125,11300,SA,Peru,PE,"Apurímac Region",PE-APU,APU,Andahuaylas,1,SPHY,ANS,,,https://en.wikipedia.org/wiki/Andahuaylas_Airport,,150,2008-07-21T16:58:59+00:00
+39628,SPHU,small_airport,"Huancayo Airport",-12.069899559020996,-75.19850158691406,10800,SA,Peru,PE,"Junín Region",PE-JUN,JUN,Huancayo,1,SPHU,,,,,,150,2008-07-21T16:58:31+00:00
+39627,SPHL,closed,"Olmos Airport",-5.984722,-79.745277,585,SA,Peru,PE,"Lambayeque Region",PE-LAM,LAM,Olmos,1,,,,,,"SPHL, SPHL",150,2022-08-31T13:19:49+00:00
+39643,SPPO,small_airport,"Pozuzo Airport",-10.070099830627441,-75.55000305175781,2420,SA,Peru,PE,"Pasco Region",PE-PAS,PAS,Pozuzo,1,SPPO,,,,,,150,2008-07-21T16:58:46+00:00
+6211,SPGB,small_airport,"Galilea Airport",-4.03188,-77.758797,597,SA,Peru,PE,"Amazonas Region",PE-AMA,AMA,,0,SPGB,,,,https://en.wikipedia.org/wiki/Galilea_Airport,,50,2024-05-18T23:17:58+00:00
+525306,SPDU,small_airport,"Pueblo Libre Del Codo Airport",-9.664617,-75.285337,900,SA,Peru,PE,"Huánuco Region",PE-HUC,HUC,,0,SPDU,,,,,,50,2024-04-10T18:55:49+00:00
+6207,SPEE,small_airport,"El Estrecho Airport",-2.45406,-72.670601,421,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,,0,SPEE,,SP69,,https://en.wikipedia.org/wiki/El_Estrecho_Airport,,50,2024-05-18T23:17:13+00:00
+6212,SPGP,small_airport,"Güeppi­ Airport",-0.119056,-75.247902,680,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,,0,SPGP,,SP01,,https://en.wikipedia.org/wiki/G%C3%BCeppi_Airport,,50,2024-05-18T23:18:14+00:00
+327366,PE-0004,small_airport,"Santa Maria de Fatima Airport",-11.940815,-68.994212,857,SA,Peru,PE,"Madre de Dios Region",PE-MDD,MDD,,0,,,,,,,50,2018-04-27T11:13:09+00:00
+525298,SPCI,small_airport,"Campamento De Ilo Aerodrome",-17.615403,-71.330883,197,SA,Peru,PE,"Moquegua Region",PE-MOQ,MOQ,,0,SPCI,,,,,,50,2024-04-10T18:03:22+00:00
+39621,SPCR,small_airport,"Acarí Airbase Airport",-15.5,-74.66667175292969,540,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Acarí,0,SPCR,,,,,,50,2008-07-21T16:58:24+00:00
+39616,SPAT,small_airport,"Aguas Calientes Airport",-8.833330154418945,-74.68329620361328,9840,SA,Peru,PE,"Huánuco Region",PE-HUC,HUC,"Aguas Calientes",0,SPAT,,,,,,50,2008-08-27T07:58:46+00:00
+39611,SPAG,small_airport,"Aguaytia Airport",-9.037409782409668,-75.50920104980469,5853,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Aguaytia,0,SPAG,,,,,,50,2008-07-21T16:58:15+00:00
+39610,SPAA,small_airport,"Caraz Airport",-9.05142879486084,-77.81014251708984,7401,SA,Peru,PE,"Ancash Region",PE-ANC,ANC,Ancash,0,SPAA,,,,,,50,2008-07-21T16:58:14+00:00
+39602,SPNO,closed,"Ancón Airport",-11.7947,-77.180901,38,SA,Peru,PE,"Lima Region",PE-LIM,LIM,Ancón,0,,,,,,"SPNO, SPNO",50,2022-08-25T15:47:28+00:00
+39619,SPCG,small_airport,"Casa Grande Airport",-7.743888854980469,-79.18638610839844,475,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,Ascope,0,SPCG,,,,,,50,2008-07-21T16:58:22+00:00
+39639,SPOY,small_airport,"Atico Airport",-16.232846,-73.605652,9,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Atico,0,SPOY,,,,https://en.wikipedia.org/wiki/Atico_Airport,,50,2024-05-18T23:20:14+00:00
+39626,SPGU,small_airport,"Baguá Airport",-5.6347222328186035,-78.53055572509766,1375,SA,Peru,PE,"Amazonas Region",PE-AMA,AMA,Baguá,0,SPGU,,,,,,50,2008-07-21T16:58:29+00:00
+39617,SPBA,closed,"Barranca Airport",-10.75,-77.76667,160,SA,Peru,PE,"Lima Region",PE-LIM,LIM,Barranca,0,,,,,,"SPBA, SPBA",50,2022-08-31T13:15:37+00:00
+333784,PE-0011,small_airport,"Patao Airport",-10.714039,-77.746854,381,SA,Peru,PE,"Lima Region",PE-LIM,LIM,Barranca,0,,,,,,,50,2020-04-06T15:17:50+00:00
+39591,SPBY,closed,"Bayóvar Airport",-5.83075,-81.025803,88,SA,Peru,PE,"Piura Region",PE-PIU,PIU,Bayóvar,0,,,,,,"SPBY, SPBY",50,2022-08-31T13:20:49+00:00
+30772,SPBL,small_airport,"Huallaga Airport",-7.06056,-76.582199,980,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Bellavista,0,,BLP,,,,SPBL,50,2024-04-15T06:58:42+00:00
+525722,PE-0033,small_airport,"Bolognesi Airport",-10.029555,-73.943375,630,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Bolognesi,0,SPBL,,,,https://en.wikipedia.org/wiki/Bolognesi_Airport,,50,2024-05-04T18:42:06+00:00
+323804,PE-0003,small_airport,"Cabo Pantoja Airstrip",-0.952,-75.179731,,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,"Cabo Pantoja",0,,,,,,,50,2017-06-12T09:57:47+00:00
+39625,SPGS,small_airport,"Lagunas Airport",-6.900000095367432,-78.63333129882812,12675,SA,Peru,PE,"Cajamarca Region",PE-CAJ,CAJ,Cajamarca,0,SPGS,,,,,,50,2008-07-21T16:58:28+00:00
+32346,SPAM,closed,"Camana Airport",-16.606999,-72.697649,209,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Camana,0,,,,,,"SPAM, SPAM",50,2022-08-25T15:30:35+00:00
+32377,SPVL,small_airport,"Caraveli Airport",-15.77904,-73.36176,5675,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Caraveli,0,SPVL,,,,,,50,2022-08-25T15:16:15+00:00
+39649,SPSA,small_airport,"Casma Airport",-9.450235,-78.294346,248,SA,Peru,PE,"Ancash Region",PE-ANC,ANC,Casma,0,SPSA,,,,,,50,2022-02-23T17:36:47+00:00
+39632,SPLD,small_airport,"Celendín Airport",-6.867599964141846,-78.14990234375,8600,SA,Peru,PE,"Cajamarca Region",PE-CAJ,CAJ,Celendín,0,SPLD,,,,,,50,2008-07-21T16:58:36+00:00
+356335,PE-0029,small_airport,"Las Plumas Airport",-12.91902,-76.49186,,SA,Peru,PE,"Lima Region",PE-LIM,LIM,"Cerro Azul",0,,,,,,,50,2022-08-25T15:53:49+00:00
+39662,SPZT,small_airport,"Chazuta Airport",-6.574166774749756,-76.13666534423828,757,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Chazuta,0,SPZT,,,,,,50,2008-07-21T16:59:04+00:00
+39595,SPHA,closed,"Chincha Airport",-13.37036,-76.11276,640,SA,Peru,PE,"Ica Region",PE-ICA,ICA,Chincha,0,,,,,,"SPHA, SPHA",50,2022-08-25T15:45:03+00:00
+39647,SPRG,small_airport,"San Regis Airport",-13.5113,-76.08398,294,SA,Peru,PE,"Ica Region",PE-ICA,ICA,Chincha,0,SPRG,,,,,,50,2022-08-25T15:44:06+00:00
+429730,PE-0032,small_airport,"Chivay Airport",-15.63627,-71.61376,,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Chivay,0,,,,,,,50,2022-09-07T12:44:58+00:00
+39635,SPNH,small_airport,"Laguna Choclococha Airport",-13.16569995880127,-75.0719985961914,14965,SA,Peru,PE,"Huancavelica Region",PE-HUV,HUV,Choclococha,0,SPNH,,,,,,50,2008-07-21T16:58:39+00:00
+39622,SPCT,small_airport,"Chota Airport",-6.550000190734863,-78.6500015258789,7800,SA,Peru,PE,"Cajamarca Region",PE-CAJ,CAJ,Chota,0,SPCT,,,,,,50,2008-07-21T16:58:25+00:00
+39592,SPCC,small_airport,"Ciudad Constitución Airport",-9.865278,-75.008888,775,SA,Peru,PE,"Pasco Region",PE-PAS,PAS,"Ciudad Constitución",0,SPCC,,,,"https://en.wikipedia.org/wiki/Ciudad_Constituci%C3%B3n_Airport,_Peru",,50,2024-05-18T23:16:32+00:00
+6230,SPOL,closed,"Collique Airport",-11.9287,-77.061096,410,SA,Peru,PE,"Lima Region",PE-LIM,LIM,"Collique Bajo",0,,,,,,"SPOL, SPOL",50,2022-08-25T15:46:55+00:00
+525724,SPDN,small_airport,"Colonia Angamos Airport",-5.137125,-72.867889,427,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,"Colonia Angamos",0,SPDN,,,,https://en.wikipedia.org/wiki/Colonia_Angamos_Airport,,50,2024-04-15T07:24:32+00:00
+32349,SPCM,small_airport,"Contamana Airport",-7.335827,-74.992531,480,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Contamana,0,SPCM,,CTF,,https://en.wikipedia.org/wiki/Contamana_Airport,,50,2024-05-18T23:16:50+00:00
+39638,SPOS,closed,"Zorritos Airport",-3.67374,-80.652397,95,SA,Peru,PE,"Tumbes Region",PE-TUM,TUM,"Contralmirante Villar",0,,,,,,"SPOS, SPOS",50,2022-08-25T16:19:40+00:00
+6206,SPDR,small_airport,"Trompeteros Airport",-3.80601,-75.039299,427,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Corrientes,0,SPDR,TDP,,,https://en.wikipedia.org/wiki/Trompeteros_Airport,,50,2024-05-20T20:25:24+00:00
+526472,SPDS,small_airport,"Cuajone Botiflaca Airport",-17.070833,-70.770833,11204,SA,Peru,PE,"Moquegua Region",PE-MOQ,MOQ,Cuajone,0,SPDS,,,,https://en.wikipedia.org/wiki/Cuajone_Botiflaca_Airport,,50,2024-04-22T17:33:57+00:00
+39620,SPCN,closed,"Cunocuno Airport",-15.977222,-73.10833,5300,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Cunocuno,0,,,,,,"SPCN, SPCN",50,2022-08-25T15:22:32+00:00
+327368,PE-0006,small_airport,"Quempiri Airfield",-11.876932,-73.916868,1329,SA,Peru,PE,"Junín Region",PE-JUN,JUN,Cutivireni,0,SPCV,,,,,,50,2022-01-15T01:39:18+00:00
+39613,SPAL,small_airport,"Alao Airport",-6.5,-76.7166976928711,1740,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,"El Dorado",0,SPAL,,,,,,50,2008-07-21T16:58:17+00:00
+39651,SPSJ,small_airport,"San José de Sisa Airport",-6.616489887237549,-76.68840026855469,1200,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,"El Dorado",0,SPSJ,,,,,,50,2008-07-21T16:58:54+00:00
+39659,SPVA,small_airport,"Hacienda El Valor Airport",-5.672621,-78.644257,,SA,Peru,PE,"Amazonas Region",PE-AMA,AMA,"El Valor",0,SPVA,,,,https://es.wikipedia.org/wiki/Aer%C3%B3dromo_El_Valor,,50,2024-05-29T05:47:03+00:00
+6209,SPEP,small_airport,"Puerto Esperanza Airport",-9.76813,-70.706497,725,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Esperanza,0,SPEP,,,,https://en.wikipedia.org/wiki/Puerto_Esperanza_Airport,,50,2024-05-18T23:17:29+00:00
+39624,SPFA,closed,"Fausa Airport",-14.7094,-71.731102,14809,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,Fausa,0,,,,,,"SPFA, SPFA",50,2022-08-25T15:13:31+00:00
+30636,SPAR,small_airport,"Alerta Airport",-11.65018,-69.229614,797,SA,Peru,PE,"Madre de Dios Region",PE-MDD,MDD,Fortaleza,0,SPAR,ALD,,,https://en.wikipedia.org/wiki/Alerta_Airport,,50,2023-11-13T13:33:17+00:00
+39658,SPUC,small_airport,"Huamachuco Airport",-7.81808,-78.02834,10367,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,Huamachuco,0,SPUC,,,,https://en.wikipedia.org/wiki/Huamachuco_Airport,,50,2024-04-15T07:06:21+00:00
+39604,SPPP,small_airport,"Huanacopampa Airport",-14.14334,-72.33455,13130,SA,Peru,PE,"Apurímac Region",PE-APU,APU,Huanacopampa,0,SPPP,,,,,,50,2022-08-25T15:03:57+00:00
+6200,SPAB,small_airport,"Huancabamba Airport",-5.256770133972168,-79.44290161132812,6312,SA,Peru,PE,"Piura Region",PE-PIU,PIU,Huancabamba,0,SPAB,,SP72,,,,50,2008-08-27T07:58:46+00:00
+39629,SPHV,small_airport,"Huánuco Viejo Airport",-9.92632007598877,-76.23390197753906,6320,SA,Peru,PE,"Huánuco Region",PE-HUC,HUC,"Huánuco Viejo",0,SPHV,,,,,,50,2008-07-21T16:58:32+00:00
+39597,SPIA,closed,"Ica Airport",-14.2001,-75.573898,1500,SA,Peru,PE,"Ica Region",PE-ICA,ICA,Ica,0,,,,,,"SPIA, SPIA",50,2022-08-25T15:39:49+00:00
+353426,PE-0026,small_airport,"Las Dunas Airport",-14.03561,-75.76004,1378,SA,Peru,PE,"Ica Region",PE-ICA,ICA,Ica,0,SPLH,,,,https://en.wikipedia.org/wiki/Las_Dunas_Airport,,50,2022-04-07T13:26:20+00:00
+39648,SPRL,small_airport,"Imperial Airport",-12.316666603088379,-75.06666564941406,,SA,Peru,PE,"Lima Region",PE-LIM,LIM,Imperial,0,SPRL,,,,,,50,2008-07-21T16:58:51+00:00
+39598,SPIN,small_airport,"Iñapari Airport",-10.979,-69.559402,917,SA,Peru,PE,"Madre de Dios Region",PE-MDD,MDD,Iñapari,0,SPIN,,,,https://en.wikipedia.org/wiki/I%C3%B1apari_Airport,,50,2024-05-18T23:18:35+00:00
+32362,SPNT,small_airport,"Intuto Airport",-3.5829999446868896,-74.75,650,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Intuto,0,SPNT,,,,,,50,2008-07-21T16:57:42+00:00
+316784,PE-0002,small_airport,"Teniente Bergerie Airport",-3.7422,-73.2604,384,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Iquitos,0,SPID,,,https://skyvector.com/airport/SPID/Teniente-Bergerie-Airport,https://en.wikipedia.org/wiki/Lieutenant_Bergerie_airport,,50,2024-05-18T21:21:56+00:00
+32353,SPEN,small_airport,"Iscozasin Airport",-10.182999610900879,-75.1500015258789,898,SA,Peru,PE,"Pasco Region",PE-PAS,PAS,Iscozasin,0,SPEN,,,,,,50,2008-07-21T16:57:18+00:00
+39645,SPQJ,small_airport,"Jaquí Airport",-15.466667175292969,-74.43333435058594,,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Jaquí,0,SPQJ,,,,,,50,2008-07-21T16:58:48+00:00
+39589,SPBS,small_airport,"Bellavista Airport",-5.28839,-76.292099,675,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Jeberos,0,SPBS,,,,https://en.wikipedia.org/wiki/Bellavista_Airport,,50,2024-05-20T20:25:02+00:00
+39605,SPQI,small_airport,"Kiteni Airport",-12.648669,-73.036579,2589,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,"La Convención",0,SPKI,,,,,,50,2024-04-10T18:54:09+00:00
+39608,SPLC,small_airport,"Mariano Melgar Airport",-16.7915,-71.886597,3890,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,"La Joya",0,SPLC,,,,https://en.wikipedia.org/wiki/Mariano_Melgar_Airport,,50,2024-05-18T23:19:10+00:00
+39600,SPLG,small_airport,"Lagarto Nuevo Airport",-12.641599655151367,-69.8375015258789,763,SA,Peru,PE,"Madre de Dios Region",PE-MDD,MDD,Lagarto,0,SPLG,,,,,,50,2008-07-21T16:56:51+00:00
+314993,PE-0001,small_airport,"Lagunas Airstrip",-5.2475,-75.678,430,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Lagunas,0,,,,,,,50,2015-07-16T10:47:30+00:00
+39652,SPSL,small_airport,"Lamas Airport",-6.416666507720947,-76.53333282470703,2600,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Lamas,0,SPSL,,,,,,50,2008-07-21T16:58:55+00:00
+301326,VVN,small_airport,"Las Malvinas/Echarate Airport",-11.854861,-72.939332,1285,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,"Las Malvinas",0,SPWT,VVN,,,https://en.wikipedia.org/wiki/Las_Malvinas_Airport,,50,2018-10-28T12:44:53+00:00
+32412,SPOV,small_airport,"Shiringayoc/Hacienda Hda Mejia Airport",-11.9,-69.167,748,SA,Peru,PE,"Madre de Dios Region",PE-MDD,MDD,"Leon Velarde",0,SPOV,,,,,,50,2018-04-26T13:12:42+00:00
+39633,SPLT,closed,"Lobitos Airport",-4.448611,-81.275558,45,SA,Peru,PE,"Piura Region",PE-PIU,PIU,Lobitos,0,,,,,,"SPLT, SPLT",50,2022-08-25T16:17:28+00:00
+39623,SPEB,small_airport,"Pebas Airport",-3.3333001136779785,-71.81670379638672,383,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Loreto,0,SPEB,,,,,,50,2008-07-21T16:58:26+00:00
+39631,SPLA,small_airport,"Luisiana Airport",-12.673815,-73.710266,,SA,Peru,PE,"Ayacucho Region",PE-AYA,AYA,Luisiana,0,SPLA,,,,,,50,2022-01-15T00:55:09+00:00
+39660,SPYA,small_airport,"Luya Airport",-6.691699981689453,-79.70169830322266,298,SA,Peru,PE,"Lambayeque Region",PE-LAM,LAM,Luya,0,SPYA,,,,,,50,2008-07-21T16:59:02+00:00
+39609,SOML,small_airport,"Malin Airport",-7.63332986831665,-78.6500015258789,5190,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,Malin,0,SOML,,,,,,50,2008-07-21T16:58:13+00:00
+353418,PE-0023,small_airport,"Walter Braedt Segú Airport",-4.08687,-81.02577,30,SA,Peru,PE,"Tumbes Region",PE-TUM,TUM,Máncora,0,SPWB,PTL,SPWB,,https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Walter_Braedt_Seg%C3%BA,,50,2024-04-09T13:21:37+00:00
+32363,SPNU,small_airport,"Manu Airport",-12.289721,-70.890199,1010,SA,Peru,PE,"Madre de Dios Region",PE-MDD,MDD,Manu,0,SPNU,,,,https://en.wikipedia.org/wiki/Manu_Airport,,50,2024-05-20T20:26:05+00:00
+39654,SPSS,small_airport,"Masisea Airport",-8.61142,-74.309962,522,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Masisea,0,SPSS,,,,,,50,2018-04-27T19:06:27+00:00
+6227,SPMF,small_airport,"Mayor PNP Nancy Flores Paucar Airport",-11.3254,-74.535598,2247,SA,Peru,PE,"Junín Region",PE-JUN,JUN,Mazamari,0,SPMF,MZA,,,https://en.wikipedia.org/wiki/Mayor_Pnp_Nancy_Flore_Airport,"Manuel Prado Ugarteche",50,2018-04-27T15:29:47+00:00
+32351,SPDO,small_airport,"Mollendo Airport",-17.045401,-71.983704,9,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Mollendo,0,SPDO,,,,https://en.wikipedia.org/wiki/Mollendo_Airport,,50,2024-05-29T05:43:31+00:00
+6210,SPEQ,small_airport,"Cesar Torke Podesta Airport",-17.179001,-70.930801,4480,SA,Peru,PE,"Moquegua Region",PE-MOQ,MOQ,Moquegua,0,SPEQ,,,,https://en.wikipedia.org/wiki/Cesar_Torque_Podesta_Airport,,50,2024-05-18T23:17:43+00:00
+31883,SPBB,small_airport,"Moyobamba Airport",-6.018889,-76.988327,2749,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Moyobamba,0,SPBB,MBP,,,https://en.wikipedia.org/wiki/Moyobamba_Airport,,50,2024-05-17T07:17:46+00:00
+39656,SPTA,small_airport,"Nauta Airport",-4.54186,-73.562951,370,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Nauta,0,SPTA,,,,,,50,2022-08-29T12:45:40+00:00
+39601,SPNM,small_airport,"Nuevo Mundo Airport",-11.541500091552734,-73.14219665527344,1090,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,"Nuevo Mundo",0,SPNM,,,,,,50,2008-07-21T16:56:52+00:00
+39590,SPBT,small_airport,"Obenteni Airport",-10.755137,-74.221749,3290,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Obenteni,0,SPBT,,,,,,50,2022-01-15T00:53:04+00:00
+32364,SPOR,small_airport,"Orcopampa Airport",-15.315232,-72.352095,12200,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Orcopampa,0,SPOR,,,,https://en.wikipedia.org/wiki/Orcopampa_Airport,,50,2024-05-18T23:19:51+00:00
+39637,SPON,small_airport,"Orellana Airport",-6.896733,-75.153182,424,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Orellana,0,SPON,,,,,,50,2022-01-14T22:55:27+00:00
+39593,SPEZ,small_airport,"Puerto Bermudez Airport",-10.299200057983398,-74.93720245361328,840,SA,Peru,PE,"Pasco Region",PE-PAS,PAS,Oxapampa,0,SPEZ,,,,,,50,2008-07-21T16:56:44+00:00
+32379,SPYO,small_airport,"Pacasmayo Airport",-7.40694,-79.568901,95,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,Pacasmayo,0,SPYO,,,,https://en.wikipedia.org/wiki/Pacasmayo_Airport,,50,2024-05-18T23:21:53+00:00
+39661,SPZH,small_airport,"Pachiza Airport",-7.299280166625977,-76.77459716796875,1102,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Pachiza,0,SPZH,,,,,,50,2008-07-21T16:59:03+00:00
+39599,SPIT,small_airport,"Paita Airport",-5.085949897766113,-81.15280151367188,230,SA,Peru,PE,"Piura Region",PE-PIU,PIU,"Paita Wesr",0,SPIT,,,,,,50,2008-07-21T16:56:50+00:00
+525270,SPPE,small_airport,"Palmapampa Airport",-12.763889,-73.652778,1988,SA,Peru,PE,"Ayacucho Region",PE-AYA,AYA,Palmapampa,0,SPPE,,,,https://en.wikipedia.org/wiki/Palmapampa_Airport,,50,2024-04-10T13:19:45+00:00
+39642,SPPN,small_airport,"Palmas del Espino Airport",-8.343722,-76.48935,1667,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,"Palmas del Espino",0,SPPN,,,,https://en.wikipedia.org/wiki/Palmas_Del_Espino_Airport,,50,2024-05-18T23:20:25+00:00
+32358,SPJB,small_airport,"Pampa Grande Airport",-7.61447,-78.06159,8727,SA,Peru,PE,"Cajamarca Region",PE-CAJ,CAJ,"Pampa Grande",0,SPJB,,,,https://en.wikipedia.org/wiki/Pampa_Grande_Airport,,50,2024-06-07T09:56:48+00:00
+32368,SPPH,small_airport,"Pampa Hermosa Airport",-7.206774,-75.297559,510,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,"Pampa Hermosa",0,SPPH,,,,,,50,2022-01-14T22:55:57+00:00
+32367,SPPG,closed,"Paramonga Airport",-10.667,-77.833,16,SA,Peru,PE,"Lima Region",PE-LIM,LIM,Paramonga,0,,,,,,"SPPG, SPPG",50,2022-08-31T13:17:44+00:00
+39612,SPAI,small_airport,"Urpay Airport",-8.3495,-77.3985,10400,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,Pataz,0,SPAI,,,,,,50,2015-04-18T08:05:47+00:00
+39630,SPIS,small_airport,"Pias Airport",-7.92062,-77.52518,8500,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,Pataz,0,SPIS,,,,https://en.wikipedia.org/wiki/Pias_Airport,,50,2024-05-18T23:18:50+00:00
+333783,PE-0010,small_airport,"Pativilca Airstrip",-10.705015,-77.800884,144,SA,Peru,PE,"Lima Region",PE-LIM,LIM,Pativilca,0,,,,,,,50,2020-04-06T15:02:34+00:00
+32347,SPAP,small_airport,"Picota Airport",-6.909451,-76.32909,948,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Picota,0,SPAP,,,,,,50,2022-06-14T23:09:24+00:00
+32355,SPIR,small_airport,"Patria Airport",-12.966295,-71.429936,2224,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,Pillcopata,0,SPIR,,,,,,50,2022-01-15T01:03:18+00:00
+39603,SPOA,small_airport,"Saposoa Airport",-6.96003,-76.768402,982,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,"Plaza Saposoa",0,SPOA,SQU,,,https://en.wikipedia.org/wiki/Saposoa_Airport,,50,2024-05-20T20:26:19+00:00
+39641,SPPM,closed,"Pomacocha Airport",-15.1792,-73.274399,10524,SA,Peru,PE,"Ayacucho Region",PE-AYA,AYA,Pomacocha,0,,,,,,"SPPM, SPPM",50,2022-08-25T15:15:46+00:00
+39644,SPPZ,small_airport,"Palcazú Airport",-9.895833015441895,-75.1177749633789,932,SA,Peru,PE,"Pasco Region",PE-PAS,PAS,Porvenir,0,SPPZ,,,,,,50,2008-07-21T16:58:47+00:00
+32350,SPCP,small_airport,"Pucacaca Airport",-6.843543,-76.33959,977,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Pucacaca,0,SPCP,,,,,,50,2022-06-14T22:45:57+00:00
+327371,SPYC,small_airport,"Yarinacocha Airport",-8.340436,-74.597906,489,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Pucallpa,0,SPYC,,,,,,50,2018-04-27T18:36:32+00:00
+327372,PE-0007,small_airport,"Pucallpa West Airport",-8.361953,-74.656877,489,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Pucallpa,0,,,,,,,50,2018-04-27T18:58:08+00:00
+351488,PE-0014,small_airport,"Misión SAM Airport",-8.35681,-74.66043,486,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Pucallpa,0,,,,,,,50,2022-01-15T01:34:18+00:00
+32366,SPPB,small_airport,"Tipishsa Airport",-9.53306,-72.756897,783,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,"Puerto Breu",0,SPPB,,,,https://en.wikipedia.org/wiki/Tipishsa_Airport,,50,2024-05-29T05:45:08+00:00
+32374,SPTI,small_airport,"Puerto Inca Airport",-9.383000373840332,-74.96700286865234,583,SA,Peru,PE,"Huánuco Region",PE-HUC,HUC,"Puerto Inca",0,SPTI,,,,,,50,2008-07-21T17:04:33+00:00
+32365,SPPA,closed,"Puerto Ocopa Airport",-11.143755,-74.307153,1217,SA,Peru,PE,"Junín Region",PE-JUN,JUN,"Puerto Ocopa",0,,,,,,"SPPA, SPPA",50,2022-01-15T00:52:23+00:00
+39594,SPGT,small_airport,"Puerto Victoria Airport",-9.902609825134277,-74.96410369873047,782,SA,Peru,PE,"Pasco Region",PE-PAS,PAS,"Puerto Victoria",0,SPGT,,,,,,50,2008-07-21T16:56:45+00:00
+39646,SPQR,small_airport,"Quiruvilca Airport",-7.9666666984558105,-78.19999694824219,13509,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,Qiruvilca,0,SPQR,,,,,,50,2008-07-21T16:58:49+00:00
+32540,SPIL,small_airport,"Quincemil Air Base",-13.231357,-70.75145,2047,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,"Quince Mil",0,SPIL,UMI,,,https://en.wikipedia.org/wiki/Quince_Mil_Airport,,50,2024-05-17T07:18:59+00:00
+32369,SPQN,closed,"Requena Airport",-5.078026,-73.856404,393,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Requena,0,,,,,https://en.wikipedia.org/wiki/Requena_Airport,"REQ, SPQN",50,2023-07-14T15:40:43+00:00
+39636,SPNR,small_airport,"Ricrán Airport",-10.777950286865234,-76.25131225585938,13720,SA,Peru,PE,"Pasco Region",PE-PAS,PAS,Ricrán,0,SPNR,,,,,,50,2008-07-21T16:58:40+00:00
+32359,SPLN,small_airport,"San Nicolas Airport",-6.39231,-77.501198,5082,SA,Peru,PE,"Amazonas Region",PE-AMA,AMA,"Rodriguez de Mendoza",0,SPLN,RIM,,,https://en.wikipedia.org/wiki/San_Nicolas_Airport,,50,2024-05-17T07:20:40+00:00
+356332,SPLX,small_airport,"Lib Mandi Metropolitan Airport",-12.38875,-76.75834,200,SA,Peru,PE,"Lima Region",PE-LIM,LIM,"San Bartolo",0,SPLX,,,,https://en.wikipedia.org/wiki/Lib_Mandy_Metropolitano_Airport,,50,2024-05-18T23:19:29+00:00
+356333,PE-0027,small_airport,"San Bartolo Airport",-12.38084,-76.78206,,SA,Peru,PE,"Lima Region",PE-LIM,LIM,"San Bartolo",0,,,,,,,50,2022-08-25T15:51:40+00:00
+32373,SPTE,small_airport,"San Francisco Airport",-12.532999992370605,-73.80000305175781,2499,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,"San Francisco",0,SPTE,,,,,,50,2008-07-21T16:58:04+00:00
+39650,SPSF,small_airport,"San Francisco Airport",-6.6166801452637,-77.766700744629,8202,SA,Peru,PE,"Amazonas Region",PE-AMA,AMA,"San Francisco de Yeso",0,SPSF,,,,,,50,2016-01-21T22:39:24+00:00
+39618,SPBQ,small_airport,"Nuevo Acari Airport",-15.45003,-74.74423,590,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,"San Isidro",0,SPBQ,,,,,,50,2022-09-07T13:12:51+00:00
+39615,SPAO,closed,"San Juan Aposento Airport",-15.3539,-75.167099,23,SA,Peru,PE,"Ica Region",PE-ICA,ICA,"San Juan Aposento",0,,,,,,"SPAO, SPAO, APE",50,2022-08-25T15:38:10+00:00
+32302,SPJN,small_airport,"San Juan de Marcona Airport",-15.357508,-75.135005,144,SA,Peru,PE,"Ica Region",PE-ICA,ICA,"San Juan de Marcona",0,SPJN,SJA,,,https://en.wikipedia.org/wiki/San_Juan_de_Marcona_Airport,,50,2022-04-07T13:33:42+00:00
+330829,PE-0009,small_airport,"San Lorenzo Airport",-4.824369,-76.56032,433,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,"San Lorenzo",0,SPQM,,,,"https://en.wikipedia.org/wiki/San_Lorenzo_Airport,_Peru",,50,2024-04-10T13:35:12+00:00
+28475,SPRF,small_airport,"San Rafael Airport",-14.28201,-70.37989,14422,SA,Peru,PE,"Puno Region",PE-PUN,PUN,"San Rafael",0,SPRF,,,,,,50,2022-08-25T15:10:35+00:00
+6234,SPRM,small_airport,"Capitán FAP Leonardo Alvariño Herr Airport",-11.128600120544434,-75.35050201416016,2600,SA,Peru,PE,"Junín Region",PE-JUN,JUN,"San Ramón",0,SPRM,,,,,,50,2008-07-21T16:57:59+00:00
+351493,SPRR,small_airport,"Revalora Airport",-13.22283,-76.26927,591,SA,Peru,PE,"Lima Region",PE-LIM,LIM,"San Vicente de Cañete",0,SPRR,,,,,,50,2022-01-15T01:43:51+00:00
+525269,SPTO,small_airport,"Tulpo Airport",-8.127167,-77.988,10702,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,"Santa Clara de Tulpo",0,SPTO,,,,https://en.wikipedia.org/wiki/Tulpo_Airport,,50,2024-04-10T13:15:07+00:00
+39634,SPMR,closed,"Santa Maria Airport",-11.983334,-77,769,SA,Peru,PE,"Lima Region",PE-LIM,LIM,"Santa María",0,,,,,,"SPMR, SPMR, SMG",50,2022-08-25T15:46:43+00:00
+353425,PE-0025,small_airport,"Huacho Airport",-11.11008,-77.55382,338,SA,Peru,PE,"Lima Region",PE-LIM,LIM,"Santa María",0,,,,,,,50,2022-03-09T01:52:57+00:00
+32345,SPAC,small_airport,"Ciro Alegria Airport",-4.607492,-77.940935,547,SA,Peru,PE,"Amazonas Region",PE-AMA,AMA,"Santa María de Nieva",0,SPAC,,,,https://en.wikipedia.org/wiki/Ciro_Alegria_Airport,Bagua,50,2023-11-27T01:55:21+00:00
+356336,PE-0030,small_airport,"Aeroclub Alas del Mar",-12.40001,-76.76806,,SA,Peru,PE,"Lima Region",PE-LIM,LIM,"Santa María del Mar",0,,,,,,,50,2022-08-25T15:55:58+00:00
+330828,PE-0008,small_airport,"Saramuro Airport",-4.707892,-74.876733,367,SA,Peru,PE,"Loreto Region",PE-LOR,LOR,Saramuro,0,,,,,,,50,2019-03-22T09:17:43+00:00
+32354,SPIP,closed,"Satipo Airport",-11.2625,-74.647778,2099,SA,Peru,PE,"Junín Region",PE-JUN,JUN,Satipo,0,,,,,,"SPIP, SPIP",50,2022-01-14T23:21:17+00:00
+32371,SPSE,small_airport,"Sepahua Airport",-11.14227,-73.034327,886,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Sepahua,0,SPSE,,,,https://en.wikipedia.org/wiki/Sepahua_Airport,,50,2024-05-18T23:20:53+00:00
+39653,SPSN,small_airport,"Shapaja Airport",-6.5797200202941895,-76.26280212402344,700,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Shapaja,0,SPSN,,,,,,50,2008-07-21T16:58:56+00:00
+39655,SPSY,small_airport,"Shiringayoc Airport",-11.898,-69.0625,856,SA,Peru,PE,"Madre de Dios Region",PE-MDD,MDD,Shiringayoc,0,SPSY,SYC,,,,,50,2018-04-27T10:32:55+00:00
+32372,SPSI,small_airport,"Siguas Airport",-16.367000579833984,-72.16699981689453,4720,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Siguas,0,SPSI,,,,,,50,2008-07-21T16:58:02+00:00
+351496,PE-0021,small_airport,"Pichari Airport",-12.50306,-73.85287,1759,SA,Peru,PE,"Ayacucho Region",PE-AYA,AYA,Sivia,0,,,,,,,50,2022-01-15T01:48:39+00:00
+39614,SPAN,closed,"Sullana Airport",-4.903889,-80.68528,197,SA,Peru,PE,"Piura Region",PE-PIU,PIU,Sullana,0,,,,,,"SPAN, SPAN",50,2022-08-25T16:16:45+00:00
+32375,SPTP,small_airport,"El Pato Air Base",-4.54981,-81.224098,286,SA,Peru,PE,"Piura Region",PE-PIU,PIU,Talara,0,SPTP,,,,https://en.wikipedia.org/wiki/El_Pato_Air_Base,,50,2024-05-20T20:27:07+00:00
+351494,PE-0019,small_airport,"Tamburco Airport",-13.56872,-72.82457,13002,SA,Peru,PE,"Apurímac Region",PE-APU,APU,Tamburco,0,,,,,,,50,2022-01-15T01:46:27+00:00
+32438,SPGM,small_airport,"Tingo Maria Airport",-9.289667,-76.005058,2146,SA,Peru,PE,"Huánuco Region",PE-HUC,HUC,"Tingo Maria",0,SPGM,TGI,,,https://en.wikipedia.org/wiki/Tingo_Mar%C3%ADa_Airport,,50,2024-05-17T07:18:35+00:00
+39657,SPTY,closed,"Tintay Airport",-13.959167,-73.185837,8809,SA,Peru,PE,"Apurímac Region",PE-APU,APU,Tintay,0,,,,,,"SPTY, SPTY",50,2022-08-25T15:02:34+00:00
+32348,SPCH,small_airport,"Tocache Airport",-8.195356,-76.530241,1631,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Tocache,0,SPCH,,TCG,,https://en.wikipedia.org/wiki/Tocache_Airport,,50,2024-05-29T05:42:26+00:00
+39606,SPTQ,small_airport,"Toquepala Airport",-17.2995,-70.652802,8536,SA,Peru,PE,"Tacna Region",PE-TAC,TAC,Toquepala,0,SPTQ,,,,https://en.wikipedia.org/wiki/Toquepala_Airport,,50,2024-05-18T23:21:21+00:00
+32376,SPTR,small_airport,"Tournavista Airport",-8.922406,-74.715234,649,SA,Peru,PE,"Huánuco Region",PE-HUC,HUC,Tournavista,0,SPTR,,,,,,50,2018-04-27T19:22:01+00:00
+39640,SPPL,small_airport,"Playa Airport",-8.517820358276367,-76.48049926757812,2070,SA,Peru,PE,"San Martín Region",PE-SAM,SAM,Trismaje,0,SPPL,,,,,,50,2008-07-21T16:58:43+00:00
+32357,SPIZ,small_airport,"Uchiza Airport",-8.467,-76.349998,1965,SA,Peru,PE,"Huánuco Region",PE-HUC,HUC,Uchiza,0,SPIZ,UCZ,,,https://en.wikipedia.org/wiki/Uchiza_Airport,,50,2024-05-17T07:19:27+00:00
+32361,SPNP,small_airport,"Ventilla Airport",-15.85131,-70.05871,13123,SA,Peru,PE,"Puno Region",PE-PUN,PUN,Ventilla,0,SPNP,,,,,,50,2022-08-25T15:06:27+00:00
+39607,SPVI,small_airport,"Vicco Airport",-10.847844,-76.246956,13464,SA,Peru,PE,"Pasco Region",PE-PAS,PAS,Vicco,0,SPVI,,,,https://en.wikipedia.org/wiki/Vicco_Airport,,50,2024-05-18T23:21:36+00:00
+525138,SPVN,small_airport,"Vilcashuamán Airport",-13.67817,-73.927,11965,SA,Peru,PE,"Ayacucho Region",PE-AYA,AYA,Vilcashuamán,0,SPVN,,,,https://en.wikipedia.org/wiki/Vilcashuam%C3%A1n_Airport,,50,2024-04-09T09:05:30+00:00
+352938,PE-0022,small_airport,"Camposol Chao Airport",-8.58173,-78.68142,228,SA,Peru,PE,"La Libertad Region",PE-LAL,LAL,Virú,0,,,,,,,50,2022-02-23T17:32:18+00:00
+353424,PE-0024,small_airport,"Yapatera Airport",-5.06777,-80.14731,328,SA,Peru,PE,"Piura Region",PE-PIU,PIU,Yapatera,0,,,,,,,50,2022-03-09T01:47:52+00:00
+32380,SPYU,small_airport,"Yauca Airport",-15.618900299072266,-74.53610229492188,488,SA,Peru,PE,"Arequipa Region",PE-ARE,ARE,Yauca,0,SPYU,,,,,,50,2008-07-21T17:05:42+00:00
+32356,SPIY,small_airport,"Yauri Airport",-14.796129,-71.431818,12972,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,Yauri,0,SPIY,,,,https://en.wikipedia.org/wiki/Yauri_Airport,,50,2024-05-29T05:44:43+00:00
+32360,SPLS,small_airport,"Zorrillos Airport",-8.416999816894531,-75.13300323486328,711,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Zorrillos,0,SPLS,,,,,,50,2008-07-21T16:57:38+00:00
+356334,PE-0028,closed,"Chilca Airport",-12.50469,-76.74428,,SA,Peru,PE,"Lima Region",PE-LIM,LIM,Chilca,0,,,,,,,0,2022-08-25T15:52:21+00:00
+342110,PE-0012,closed,"Chinchero International Airport (under construction)",-13.3915,-72.069,12169,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,Chinchero,0,,,,,https://en.wikipedia.org/wiki/Chinchero_International_Airport,,0,2021-03-12T16:00:46+00:00
+351495,PE-0020,heliport,"Diospi Suyana Hospital Heliport",-13.54249,-72.70599,8750,SA,Peru,PE,"Apurímac Region",PE-APU,APU,Curahuasi,0,,,,,,,0,2022-01-15T01:47:23+00:00
+327367,PE-0005,closed,"Kirigueti Airfield",-11.574279,-73.128657,1168,SA,Peru,PE,"Cuzco Region",PE-CUS,CUS,Kirigueti,0,,,,,,,0,2022-01-15T00:54:13+00:00
+351490,PE-0016,heliport,"Micaela Bastidas Morales Heliport",-11.857,-73.9589,1401,SA,Peru,PE,"Junín Region",PE-JUN,JUN,Misión,0,,,,,,,0,2022-01-15T01:38:31+00:00
+356337,PE-0031,closed,"Aldora Airport",-5.15176,-80.94737,,SA,Peru,PE,"Piura Region",PE-PIU,PIU,Paita,0,,,,,,,0,2022-08-25T16:15:38+00:00
+351487,PE-0013,heliport,"Pucallpa Air Force Heliport",-8.3515,-74.5819,505,SA,Peru,PE,"Ucayali Region",PE-UCA,UCA,Pucallpa,0,,,,,,,0,2022-01-15T01:32:29+00:00
+351489,PE-0015,heliport,"Puerto Anapati Heliport",-11.92859,-73.9877,1496,SA,Peru,PE,"Junín Region",PE-JUN,JUN,"Puerto Anapati",0,,,,,,,0,2022-01-15T01:37:03+00:00
+351491,PE-0017,heliport,"Puerto Ocopa Heliport",-11.14793,-74.30629,1056,SA,Peru,PE,"Junín Region",PE-JUN,JUN,"Puerto Ocopa",0,,,,,,,0,2022-01-15T01:40:40+00:00
+351492,PE-0018,heliport,"Tanquin Heliport",-12.12632,-74.07599,1880,SA,Peru,PE,"Junín Region",PE-JUN,JUN,Tanquin,0,,,,,,,0,2022-01-15T01:42:05+00:00
