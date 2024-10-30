@@ -12,4 +12,4 @@ Para el tercer ejercicio,
 
 Para el cuarto ejercicio, buscamos datos acerca de los departamentos y municipios del país para que formen parte del mapa.
 
-Para el quinto ejercicio, 
+Para el quinto ejercicio, se descargó "FragilityCia_isos.csv" para extraer las variables "co2" y "ForestRev_gdp" y transformarlos para juntarlos con el geodataframe. La combinación se llama "theMapAndData" (con una columna geometry de tipo "geometry") y se eligió la estrategia "Quantile Transformer" para re-escalar las variables. Entonces se aproximaron ("discretize") el resultado y se obtuvieron los mapas respectivos de "co2" y "ForestRev_gdp".
