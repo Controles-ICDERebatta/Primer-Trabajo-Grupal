@@ -2,6 +2,12 @@
 
 Link: https://controles-icderebatta.github.io/Primer-Trabajo-Grupal/
 
+Integrantes:
+-Javier Rebatta 
+-Joaquín López 
+-Moisés Challco
+
+
 En primer lugar, se instalaron carpetas .zip que contenían datos acerca de los países del mundo, sus ciudades y sus ríos. Dicha información se utilizó para crear mapas que pasaron a formar parte de un archivo que pueda ser solicitado para después.
 
 Para el primer ejercicio, elegimos Perú como el país a trabajar y realizamos un proceso similar al anterior. Para ello, buscamos una coincidencia en los datos utilizados anteriormente para distinguir la información disponible sobre ciudades y ríos. Luego solicitamos un csr para ser proyectado ya que como se ve en el código, aparece un error por no estar proyectado. Tras probar que el tipo de dato es "geometry" se pueden crear los mapas a partir de la información y lo guardamos en un geopackage (gpck).
