@@ -8,7 +8,7 @@ Para el primer ejercicio, elegimos Perú como el país a trabajar y realizamos u
 
 Para el segundo ejercicio, descargamos un archivo .csv que contiene los aeropuertos del país elegido. Dicho archivo fue limpiado y formateado para que se pueda crear un mapa que los contenga.
 
-Para el tercer ejercicio, se revisó si el país aparece como "polygon" o "multipolygon".
+Para el tercer ejercicio, se revisó si el país aparece como "polygon" o "multipolygon", se recuperaron los límites del país y se guardaron como geodataframe (GDF).
 
 Para el cuarto ejercicio, buscamos datos acerca de los departamentos y municipios del país para que formen parte del mapa. También revisamos su CSRs.
 
