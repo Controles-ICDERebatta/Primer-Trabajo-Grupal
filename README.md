@@ -8,8 +8,8 @@ Para el primer ejercicio, elegimos Perú como el país a trabajar y realizamos u
 
 Para el segundo ejercicio, descargamos un archivo .csv que contiene los aeropuertos del país elegido. Dicho archivo fue limpiado y formateado para que se pueda crear un mapa que los contenga.
 
-Para el tercer ejercicio, 
+Para el tercer ejercicio, se revisó si el país aparece como "polygon" o "multipolygon".
 
-Para el cuarto ejercicio, buscamos datos acerca de los departamentos y municipios del país para que formen parte del mapa.
+Para el cuarto ejercicio, buscamos datos acerca de los departamentos y municipios del país para que formen parte del mapa. También revisamos su CSRs.
 
 Para el quinto ejercicio, se descargó "FragilityCia_isos.csv" para extraer las variables "co2" y "ForestRev_gdp" y transformarlos para juntarlos con el geodataframe. La combinación se llama "theMapAndData" (con una columna geometry de tipo "geometry") y se eligió la estrategia "Quantile Transformer" para re-escalar las variables. Entonces se aproximaron ("discretize") el resultado y se obtuvieron los mapas respectivos de "co2" y "ForestRev_gdp".
